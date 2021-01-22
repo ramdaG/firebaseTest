@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039736822323",
+    "project_id": "planar-outlook-299502",
+    "storage_bucket": "planar-outlook-299502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039736822323:android:5283928b66993c8c31a146",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039736822323-j122s42bm8kpnrhf8ifea78n5t8a4bft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ37Z6oWHMhqZ3pFHRfeT9MOyIlCBzcAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039736822323-j122s42bm8kpnrhf8ifea78n5t8a4bft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
